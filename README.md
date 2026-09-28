@@ -3,7 +3,7 @@
 This project focuses on the end-to end data cleaning and standardization of a messy dataset containing critical business identifiers (ids,names,emails,phone numbers, addresses, and sign-up dates).the objective was to resolve data integrity issues and prepare the dataset for accurate downstream analysis and reporting.
 ## Tools used
 Microsoft Excel & Power Query: For initial data profilling,string manupulation.
-## data sructure
+## Data sructure
 The dateset tracks the following fields:
 -i id Uunique customers identifier ( checked the duplicate and handled the missing values)
 names: Separeted the names into two colums first and last name, standardized to proper case.

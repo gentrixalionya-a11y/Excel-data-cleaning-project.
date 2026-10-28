@@ -5,7 +5,7 @@ This project focuses on the end-to end data cleaning and standardization of a me
 Microsoft Excel & Power Query: For initial data profilling,string manupulation.
 ## Data sructure
 The dateset tracks the following fields:
--i id Uunique customers identifier ( checked the duplicate and handled the missing values)
+-id Unique customers identifier ( checked the duplicate and handled the missing values)
 names: Separeted the names into two colums first and last name, standardized to proper case.
 email: Validated structure and removed syntax error.
 phone: Standardized phone number formats.
